@@ -425,8 +425,8 @@ module.spells.names = {
 	["splitalt"] = "Partir hacia adelante",
 
 	["twister"] = "Divisor",
-	["splicerevent"] = "Entrelazar",
-	["spliceraltevent"] = "Bisecar",
+	["splicerevent"] = "Entrelazamiento",
+	["spliceraltevent"] = "Bisección",
 
 	--NECROMANCER
 	["createdual"] = "Crear escaleras duales",
@@ -1386,7 +1386,7 @@ module.static = {
 	["nether_3"] = "PROS:\nHechizos rápidos\nPerfecto para jugar solo\nCONTRAS:\nCuesta Robux\nNo recomendado para equipos",
 	["nether_4"] = "'Claro que teletransportarse es seguro'\nnuestro fundador (DESAPARECIDO)",
 
-	["study_1"] = "ESTUDIO DE ARCHON",
+	["study_1"] = "ESCUELA DE ARCHON",
 	["study_2"] = "NUESTRO LEMA:\nABRIR\nPORTAL\n???\nAPROVECHAR",
 	["study_3"] = "PROS:\nRigs útiles\nConfunde a los oponentes\nCONTRAS:\nEl más dificil de aprender\nRequiere planeación",
 	["study_4"] = "'Antes reinaba esta torre'\nnuestro fundador",
